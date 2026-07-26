@@ -1,0 +1,10 @@
+# Ignore dataset
+data/movielens_out/popularity_timeseries.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+.venv/
